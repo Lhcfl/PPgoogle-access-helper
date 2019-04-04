@@ -8,11 +8,7 @@
       "default_title": "PP谷歌访问助手(破解版)v1"
    },
    
-   "content_scripts": [ {
-      "js": [ "js/jquery-1.11.1.js", "js/content-script.js" ],
-      "matches": [ "*://www.baidu.com/*" ],
-      "run_at": "document_end"
-   } ],
+   
    "default_locale": "en",
    "description": "__MSG_extDescription__",
    "icons": {
