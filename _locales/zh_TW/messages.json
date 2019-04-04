@@ -1,0 +1,52 @@
+{
+   "errorIdNotForm": {
+      "description": "Error message thrown when the given `id` isn't a form element.",
+      "message": "Element with ID `$1` isn't a form element."
+   },
+   "errorIdNotFound": {
+      "description": "Error message thrown when the given `id` doesn't exist",
+      "message": "Element with ID `$1` doesn't exist in the document"
+   },
+   "errorNoExtensionAccess": {
+      "description": "Error message displayed when `levelOfControl` is 'not_controllable'.",
+      "message": "Sorry. This browser's proxy settings cannot be controlled via extensions."
+   },
+   "errorOtherExtensionControls": {
+      "description": "Error message displayed when `levelOfControl` is 'controlled_by_other_extensions'.",
+      "message": "Sorry. This browser's proxy settings are being controlled by another extension. Please visit chrome://extensions for details."
+   },
+   "errorPopupTitle": {
+      "description": "Error message used as popup title.",
+      "message": "Error: $1"
+   },
+   "errorProxyDetailedError": {
+      "description": "Error message displayed in popup when an error occurs.",
+      "message": "ProxyError: $1. $2."
+   },
+   "errorProxyError": {
+      "description": "Error message displayed in popup when an error occurs.",
+      "message": "ProxyError: $1."
+   },
+   "errorSettingIncognitoProxy": {
+      "description": "Error message, displayed when failing to set incognito proxy settings.",
+      "message": "Setting incognito proxy settings failed.  Sorry!"
+   },
+   "errorSettingRegularProxy": {
+      "description": "Error message, displayed when failing to set regular proxy settings.",
+      "message": "Setting regular proxy settings failed.  Sorry!"
+   },
+   "extDescription": {
+      "message": "最簡單易用的穀歌訪問助手，為chrome擴展用戶量身打造。可以解决chrome擴展無法自動更新的問題，同時可以訪問穀歌google蒐索，gmail郵箱，google+等穀歌服務。"
+   },
+   "extName": {
+      "message": "PP穀歌訪問助手"
+   },
+   "headerDirectConnection": {
+      "description": "Header for 'Direct Connection' configuration `fieldset`.",
+      "message": "Direct Connection"
+   },
+   "successfullySetProxy": {
+      "description": "Success message, displayed after proxy settings have been written.",
+      "message": "Your proxy settings have been saved successfully; this window will close automagically. Have a nice day!"
+   }
+}

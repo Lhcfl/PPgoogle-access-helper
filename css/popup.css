@@ -1,0 +1,33 @@
+body {
+    width: 210px;
+}
+.body div{
+    line-height: 30px;
+}
+h4{
+    font-size: 14px;
+}
+.clear{
+    clear: both;
+}
+#inline{
+    margin-top: -6px;
+}
+#header h4{
+    float: left;
+}
+#banben{
+    margin: 20px 10px;
+    float: left;
+}
+.body a{
+    text-decoration: none;
+    color:#2c87ff;
+}
+.response{
+    color: #B3B3B3;
+}
+
+
+
+

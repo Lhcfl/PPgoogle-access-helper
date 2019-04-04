@@ -6,10 +6,10 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="img/google.png" /></td>
-    <td align="center"><img src="img/chrome.png" /></td>
-    <td align="center"><img src="img/gmail.png" /></td>
-    <td align="center"><img src="img/googleplus.png" /></td>
+    <td align="center"><img src="https://github.com/haotian-wang/google-access-helper/raw/v2.3.0/img/google.png" /></td>
+    <td align="center"><img src="https://github.com/haotian-wang/google-access-helper/raw/v2.3.0/img/chrome.png" /></td>
+    <td align="center"><img src="https://github.com/haotian-wang/google-access-helper/raw/v2.3.0/img/gmail.png" /></td>
+    <td align="center"><img src="https://github.com/haotian-wang/google-access-helper/raw/v2.3.0/img/googleplus.png" /></td>
   </tr>
   <tr>
     <td align="center">Google搜索</td>
@@ -39,7 +39,8 @@
 - 该插件在Chrome打开新标签页时会替换网址为推广网站，因此，只需**删掉它**即可。
 
 --------
-### 一点吐槽
+## 一点吐槽
+
 ~~话说为什么和谷歌访问助手这么像啊~~
 
 破解灵感来源：[谷歌访问助手破解版](https://github.com/haotian-wang/google-access-helper)
